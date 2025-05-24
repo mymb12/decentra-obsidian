@@ -18,3 +18,4 @@ if abciss > 1
 	sprite_index = Sp_U_Idle
 if ordinat > 1
 	sprite_index = Sp_U_Idle
+

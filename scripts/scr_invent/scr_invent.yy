@@ -1,7 +1,7 @@
 {
   "resourceType": "GMScript",
   "resourceVersion": "1.0",
-  "name": "open_diag",
+  "name": "scr_invent",
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
