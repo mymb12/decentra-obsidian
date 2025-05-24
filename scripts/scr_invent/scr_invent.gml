@@ -2,6 +2,5 @@
 // https://help.yoyogames.com/hc/en-us/articles/360005277377
 enum ITEM{
 	NONE,
-	GOLD,
-	SHIT
+	OBSIDIAN,
 }

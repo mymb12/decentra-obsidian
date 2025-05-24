@@ -23,3 +23,13 @@ if (stamina < 10 && !is_stamina_healing) {
 	is_stamina_healing = true
 	alarm[0] = 2 * 60
 }
+
+if instance_exists(Ob_steeve) {
+	var dist = point_distance(x, y, Ob_steeve.x, Ob_steeve.y)
+	
+	if dist < 400 {
+		layer_set_visible("Effect_Shake", 1)
+	} else {
+		layer_set_visible("Effect_Shake", 0)	
+	}
+}

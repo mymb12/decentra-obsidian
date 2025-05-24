@@ -1,0 +1,1 @@
+if !show_animation image_index = 0
