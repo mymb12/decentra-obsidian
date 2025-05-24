@@ -1,0 +1,1 @@
+global.diagPhrase = "I love kebab!"

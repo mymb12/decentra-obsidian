@@ -1,0 +1,1 @@
+global.diagPhrase = "How are you?"

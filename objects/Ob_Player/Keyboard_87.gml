@@ -1,0 +1,1 @@
+sprite_index = Sp_Walk_Up

@@ -1,0 +1,1 @@
+global.diagPhrase = "Do you like kebab?"
