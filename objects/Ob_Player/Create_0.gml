@@ -5,3 +5,6 @@ buttons = 0
 
 global.item = [];
 global.item[0] = ITEM.NONE
+
+stamina = 10
+is_stamina_healing = false

@@ -19,3 +19,7 @@ if abciss > 1
 if ordinat > 1
 	sprite_index = Sp_U_Idle
 
+if (stamina < 10 && !is_stamina_healing) {
+	is_stamina_healing = true
+	alarm[0] = 2 * 60
+}
