@@ -1,13 +1,11 @@
 {
-  "$GMScript":"v1",
-  "%Name":"open_diag",
-  "isCompatibility":false,
-  "isDnD":false,
-  "name":"open_diag",
-  "parent":{
-    "name":"Scripts",
-    "path":"folders/Scripts.yy",
+  "resourceType": "GMScript",
+  "resourceVersion": "1.0",
+  "name": "open_diag",
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "Scripts",
+    "path": "folders/Scripts.yy",
   },
-  "resourceType":"GMScript",
-  "resourceVersion":"2.0",
 }
