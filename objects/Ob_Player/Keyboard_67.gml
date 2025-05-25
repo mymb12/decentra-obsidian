@@ -12,7 +12,7 @@ if(!global.item[0] = ITEM.NONE) {
 			break
 	}
 
-	instance_create_depth(block_x, block_y, 0, object)
+	instance_create_depth(block_x, block_y, 10, object)
 	
 	global.item[0] = ITEM.NONE
 }
