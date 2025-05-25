@@ -1,0 +1,1 @@
+can_place_block = true
