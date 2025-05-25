@@ -33,3 +33,14 @@ if instance_exists(Ob_steeve) {
 		layer_set_visible("Effect_Shake", 0)	
 	}
 }
+
+
+
+
+
+
+
+
+
+
+

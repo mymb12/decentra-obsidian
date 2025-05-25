@@ -1,0 +1,1 @@
+global.diagPhrase = "They are on the east side of the main island. Good luck!"

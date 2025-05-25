@@ -1,1 +1,1 @@
-global.diagPhrase = "I love kebab!"
+global.diagPhrase = "Safely transport the wolf, cat and creeper into their world"

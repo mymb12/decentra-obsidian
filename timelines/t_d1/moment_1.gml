@@ -1,1 +1,1 @@
-global.diagPhrase = "How are you?"
+global.diagPhrase = "I have a task for you"

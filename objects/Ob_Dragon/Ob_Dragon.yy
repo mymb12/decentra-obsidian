@@ -1,10 +1,10 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Ob_Guy",
+  "name": "Ob_Dragon",
   "spriteId": {
-    "name": "Sp_U_Idle",
-    "path": "sprites/Sp_U_Idle/Sp_U_Idle.yy",
+    "name": "Sp_dragon",
+    "path": "sprites/Sp_dragon/Sp_dragon.yy",
   },
   "solid": true,
   "visible": true,

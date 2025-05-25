@@ -21,3 +21,21 @@ draw_healthline(xx + 430, yy + 360, Ob_stamina_0, Ob_stamina_1, stamina)
 
 draw_sprite(Sp_item_cell, 0, xx + 345, yy + 320);
 draw_sprite(Sp_items, global.item[0], xx + 345, yy + 320);
+
+
+
+
+
+if quest = 1 and global.quest_number > 0
+{
+draw_sprite(Sp_quest_list, 0, xx, yy);
+draw_text(xx, yy, global.quest[(global.quest_number)-1])
+}
+else if quest = 1 and global.quest_number < 1
+{
+	draw_sprite(Sp_quest_list, 0, xx, yy);
+	draw_text(xx, yy, "You have no any quests ;(")
+}
+	
+else
+	instance_destroy(Sp_quest_list)

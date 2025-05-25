@@ -1,1 +1,1 @@
-global.diagPhrase = "goodbye!"
+global.diagPhrase = "The creeper shouldn't run from the cat, and the cat shouldn't run from the wolf."

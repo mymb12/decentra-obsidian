@@ -1,3 +1,3 @@
-global.diagChar = "KebabGuy"
-global.diagAvatar = Sp_Head_Guy
+global.diagChar = "The Ender Dragon"
+global.diagAvatar = Sp_Head_Dragon
 global.diagPhrase = "Hello"
